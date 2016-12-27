@@ -1,9 +1,9 @@
 == README
 
-# Coder Manual Project Application
+=== Coder Manual Project Application
 Subscription-based web application simulating a developer networking platform, created while working through the Coder Manual Complete Web Developer Ruby on Rails Bootcamp.
 
-### Current features include:
+Current features include:
 1. User authentication via admin managed registration & logins
 2. Creating and managing user profiles
 3. Email-based messaging between users
